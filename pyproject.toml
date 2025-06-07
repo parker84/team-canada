@@ -1,0 +1,12 @@
+[project]
+name = "team-canada"
+version = "0.1.0"
+description = "Team Canada Project"
+requires-python = ">=3.12"
+dependencies = [
+    "agno>=1.5.10",
+    "cohere>=5.15.0",
+    "coloredlogs>=15.0.1",
+    "duckduckgo-search>=8.0.2",
+    "sqlalchemy>=2.0.41",
+]
